@@ -1,0 +1,103 @@
+{
+  "data": {
+    "classRoom": "203호",
+    "studentList": [
+      {
+        "idx": 1,
+        "name": "강미란",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 2,
+        "name": "김서영",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 3,
+        "name": "김성진",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 4,
+        "name": "김솔빈",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 5,
+        "name": "김윤영",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 6,
+        "name": "김호영",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 7,
+        "name": "민기",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 8,
+        "name": "박용준",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 9,
+        "name": "박정혜",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 10,
+        "name": "엄정현",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 11,
+        "name": "유수종",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 12,
+        "name": "유한",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 13,
+        "name": "이주현",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 14,
+        "name": "장예소",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 15,
+        "name": "최용헌",
+        "type": "student",
+        "state": "훈련중"
+      },
+      {
+        "idx": 16,
+        "name": "김솔빈",
+        "type": "student",
+        "state": "훈련중"
+      }
+    ]
+  }
+}
